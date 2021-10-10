@@ -1,0 +1,41 @@
+{
+ "name": "Tip.Blue Development Tokens",
+ "logoURI": "https://tip.blue/assets/img/blue.png",
+ "keyword": [
+  "avalanche",
+  "defi",
+  "discord"
+ ],
+ "version": {
+  "major": 1,
+  "minor": 0,
+  "patch": 0
+ },
+ "timestamp": "2021-10-10T11:15:36.706587296-03:00",
+ "tokens": [
+  {
+   "chainId": 43113,
+   "address": "0xca7730d239f9fca6d9683b0a62ed1a6c660d7cba",
+   "decimals": 18,
+   "name": "FreeBTC",
+   "symbol": "FBTC",
+   "logoURI": "https://raw.githubusercontent.com/FreeBitcoins-com/tokens/main/assets/0xCa7730D239f9fCA6d9683B0a62ed1A6c660D7CbA/logo.png"
+  },
+  {
+   "chainId": 43113,
+   "address": "0x1e4cc261bb081375554e24db3647a023cda4fa73",
+   "decimals": 18,
+   "name": "Avaware",
+   "symbol": "AVE",
+   "logoURI": "https://raw.githubusercontent.com/avaware/avaware/main/logo.png"
+  },
+  {
+   "chainId": 43113,
+   "address": "0xcbb327140E91039A3f4E8EcF144b0f12238D6fdd",
+   "decimals": 18,
+   "name": "Blue Token",
+   "symbol": "BLUE",
+   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
+  }
+ ]
+}
