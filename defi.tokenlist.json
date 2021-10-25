@@ -8,11 +8,35 @@
  ],
  "version": {
   "major": 1,
-  "minor": 0,
+  "minor": 1,
   "patch": 0
  },
- "timestamp": "2021-10-10T11:15:36.696199143-03:00",
+ "timestamp": "2021-10-25T11:15:36.696199143-03:00",
  "tokens": [
+  {
+    "chainId": 43114,
+    "address": "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed",
+    "decimals": 18,
+    "name": "AV Me",
+    "symbol": "AVME",
+    "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed/logo.png"
+  },
+  {
+    "chainId": 43114,
+    "address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+    "decimals": 9,
+    "name": "Spore",
+    "symbol": "SPORE",
+    "logoURI": "https://raw.githubusercontent.com/sporeproject/spore-frontend/master/src/assets/SPORE.png"
+  },
+  {
+    "address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
+    "chainId": 43114,
+    "name": "Teddy Cash Token",
+    "symbol": "TEDDY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC/logo.png"
+  },
   {
    "chainId": 43114,
    "address": "0x60781C2586D68229fde47564546784ab3fACA982",
