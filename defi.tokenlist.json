@@ -8,7 +8,7 @@
  ],
  "version": {
   "major": 1,
-  "minor": 1,
+  "minor": 2,
   "patch": 0
  },
  "timestamp": "2021-10-25T11:15:36.696199143-03:00",
@@ -213,15 +213,6 @@
    "name": "STORM Token",
    "symbol": "STORM",
    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b/logo.png"
-  },
-  
-  {
-   "chainId": 43114,
-   "address": "0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff",
-   "decimals": 18,
-   "name": "JENKEM",
-   "symbol": "JENKEM",
-   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
   },
   {
    "chainId": 43114,
