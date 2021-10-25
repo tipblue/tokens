@@ -214,6 +214,14 @@
    "name": "AVAI",
    "symbol": "AVAI",
    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x346A59146b9b4a77100D369a3d18E8007A9F46a6/logo.png"
+  },
+  {
+   "chainId": 43114,
+   "address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+   "decimals": 18,
+   "name": "Husky",
+   "symbol": "HUSKY",
+   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654/logo.png"
   }
  ]
 }
