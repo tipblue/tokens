@@ -246,5 +246,13 @@
       "symbol": "JENKEM",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
     },
+    {
+      "chainId": 43114,
+      "address": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
+      "decimals": 18,
+      "name": "RUGPULL",
+      "symbol": "RUGPULL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
+    },
   ]
 }
