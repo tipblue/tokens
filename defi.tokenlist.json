@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "timestamp": "2021-10-25T11:15:36.696199143-03:00",
@@ -245,6 +245,14 @@
       "name": "RUGPULL",
       "symbol": "RUGPULL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x5BcDE17c50652aD6148C970F10Bf06647137A7E4",
+      "name": "LOAlexandria",
+      "symbol": "LOA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5BcDE17c50652aD6148C970F10Bf06647137A7E4/logo.png"
     }
   ]
 }
