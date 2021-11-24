@@ -245,6 +245,14 @@
       "name": "RUGPULL",
       "symbol": "RUGPULL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x245C2591403e182e41d7A851eab53B01854844CE",
+      "decimals": 18,
+      "name": "THORS MEAD",
+      "symbol": "MEAD",
+      "logoURI": ""
     }
   ]
 }
