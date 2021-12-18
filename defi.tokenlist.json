@@ -240,19 +240,51 @@
     },
     {
       "chainId": 43114,
-      "address": "0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff",
+      "address": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
       "decimals": 18,
-      "name": "JENKEM",
-      "symbol": "JENKEM",
-      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
+      "name": "RUGPULL",
+      "symbol": "RUGPULL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
     },
     {
-      chainId: 43114,
-      address: "0x9FBA6AacB11010999355E60675A734278345B13C",
-      decimals: 18,
-      name: "Embr",
-      symbol: "EMBR",
-      logoURI: "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+      "chainId": 43114,
+      "address": "0x245C2591403e182e41d7A851eab53B01854844CE",
+      "decimals": 18,
+      "name": "THORS MEAD",
+      "symbol": "MEAD",
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x245C2591403e182e41d7A851eab53B01854844CE/logo.png"
     },
-  ]
+    {
+      "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
+      "chainId": 43114,
+      "name": "Avaware USD",
+      "symbol": "AUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png"
+    },
+    {
+      "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+      "chainId": 43114,
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+      "decimals": 18,
+      "name": "Spell Token",
+      "symbol": "SPELL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
+    },
+    {
+    "chainId": 43114,
+    "address": "0x9FBA6AacB11010999355E60675A734278345B13C",
+    "decimals": 18,
+    "name": "Embr",
+    "symbol": "EMBR",
+    "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+  },
+]
 }
