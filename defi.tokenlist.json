@@ -8,7 +8,7 @@
   ],
   "version": {
     "major": 1,
-    "minor": 3,
+    "minor": 4,
     "patch": 0
   },
   "timestamp": "2021-10-25T11:15:36.696199143-03:00",
@@ -245,6 +245,14 @@
       "name": "JENKEM",
       "symbol": "JENKEM",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png"
+    },
+    {
+      chainId: 43114,
+      address: "0x9FBA6AacB11010999355E60675A734278345B13C",
+      decimals: 18,
+      name: "Embr",
+      symbol: "EMBR",
+      logoURI: "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
     },
   ]
 }
