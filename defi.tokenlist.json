@@ -285,6 +285,14 @@
     "name": "Embr",
     "symbol": "EMBR",
     "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+    },
+    {
+    "chainId": 43114,
+    "address": "0xbA5dC7e77d150816b758E9826fCad2D74820e379",
+    "decimals": 18,
+    "name": "WowneroX",
+    "symbol": "WOWX",
+    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
   }
 ]
 }
