@@ -248,6 +248,14 @@
     },
     {
       "chainId": 43114,
+      "address": "0x5BcDE17c50652aD6148C970F10Bf06647137A7E4",
+      "name": "LOAlexandria",
+      "symbol": "LOA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5BcDE17c50652aD6148C970F10Bf06647137A7E4/logo.png"
+    },
+    {
+      "chainId": 43114,
       "address": "0x245C2591403e182e41d7A851eab53B01854844CE",
       "decimals": 18,
       "name": "THORS MEAD",
@@ -279,20 +287,20 @@
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
     },
     {
-    "chainId": 43114,
-    "address": "0xD81D45E7635400dDD9c028839e9a9eF479006B28",
-    "decimals": 18,
-    "name": "Embr",
-    "symbol": "EMBR",
-    "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+      "chainId": 43114,
+      "address": "0xD81D45E7635400dDD9c028839e9a9eF479006B28",
+      "decimals": 18,
+      "name": "Embr",
+      "symbol": "EMBR",
+      "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
     },
     {
-    "chainId": 43114,
-    "address": "0xbA5dC7e77d150816b758E9826fCad2D74820e379",
-    "decimals": 18,
-    "name": "WowneroX",
-    "symbol": "WOWX",
-    "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
-  }
-]
+      "chainId": 43114,
+      "address": "0xbA5dC7e77d150816b758E9826fCad2D74820e379",
+      "decimals": 18,
+      "name": "WowneroX",
+      "symbol": "WOWX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
+    }
+  ]
 }
