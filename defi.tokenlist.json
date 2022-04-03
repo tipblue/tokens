@@ -253,6 +253,54 @@
       "symbol": "LOA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5BcDE17c50652aD6148C970F10Bf06647137A7E4/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x245C2591403e182e41d7A851eab53B01854844CE",
+      "decimals": 18,
+      "name": "THORS MEAD",
+      "symbol": "MEAD",
+      "logoURI": "https://github.com/traderjoe-xyz/joe-tokenlists/blob/main/logos/0x245C2591403e182e41d7A851eab53B01854844CE/logo.png"
+    },
+    {
+      "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
+      "chainId": 43114,
+      "name": "Avaware USD",
+      "symbol": "AUSD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x783C08b5F26E3daf8C4681F3bf49844e425b6393/logo.png"
+    },
+    {
+      "address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+      "chainId": 43114,
+      "name": "Magic Internet Money",
+      "symbol": "MIM",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+      "decimals": 18,
+      "name": "Spell Token",
+      "symbol": "SPELL",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xD81D45E7635400dDD9c028839e9a9eF479006B28",
+      "decimals": 18,
+      "name": "Embr",
+      "symbol": "EMBR",
+      "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xbA5dC7e77d150816b758E9826fCad2D74820e379",
+      "decimals": 18,
+      "name": "WowneroX",
+      "symbol": "WOWX",
+      "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
     }
   ]
 }
