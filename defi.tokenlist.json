@@ -301,6 +301,14 @@
       "name": "WowneroX",
       "symbol": "WOWX",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xeA068Fba19CE95f12d252aD8Cb2939225C4Ea02D",
+      "decimals": 18,
+      "name": "FIEF",
+      "symbol": "FIEF",
+      "logoURI": "https://assets.website-files.com/61f837d2703b6406c9213d05/61f837d2703b649ab0213d45_Black%2520logo%2520-%2520no%2520background-p-500.png"
     }
   ]
 }
