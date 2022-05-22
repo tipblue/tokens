@@ -309,6 +309,14 @@
       "name": "FIEF",
       "symbol": "FIEF",
       "logoURI": "https://assets.website-files.com/61f837d2703b6406c9213d05/61f837d2703b649ab0213d45_Black%2520logo%2520-%2520no%2520background-p-500.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0x33c7CA334A963e9C8c8b105AA097a7E392a286C7",
+      "decimals": 8,
+      "name": "Level 1",
+      "symbol": "LVL",
+      "logoURI": "https://cdn.discordapp.com/attachments/935925621169745931/977709990724911104/785A91BD-6061-4F6A-8043-454BCC19A73C.png"
     }
   ]
 }
