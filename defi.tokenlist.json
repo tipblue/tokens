@@ -317,6 +317,14 @@
       "name": "Level 1",
       "symbol": "LVL",
       "logoURI": "https://cdn.discordapp.com/attachments/935925621169745931/977709990724911104/785A91BD-6061-4F6A-8043-454BCC19A73C.png"
+    },
+    {
+      "chainId": 43114,
+      "address": "0xcfe01483d20c55d13062A8487C660e6D343EdA8F",
+      "decimals": 9,
+      "name": "Bullion of Asgard",
+      "symbol": "BoA",
+      "logoURI": "https://raw.githubusercontent.com/CoA-Meeseeks/coa/main/tokens/BoA.png"
     }
   ]
 }
