@@ -325,6 +325,14 @@
       "name": "Bullion of Asgard",
       "symbol": "BoA",
       "logoURI": "https://raw.githubusercontent.com/CoA-Meeseeks/coa/main/tokens/BoA.png"
+    },
+     {
+      "chainId": 43114,
+      "address": "0x4BA16DaF8ed418deD920C66e45cc3eaFFDE53Ac7",
+      "decimals": 9,
+      "name": "bCASH",
+      "symbol": "bCASH",
+      "logoURI": "https://raw.githubusercontent.com/tipblue/tokens/main/11.png"
     }
   ]
 }
